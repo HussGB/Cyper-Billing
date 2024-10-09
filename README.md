@@ -44,10 +44,15 @@ You can stay updated by starring or watching the repository.
 
 ---
 
-[ IMAGES ]
-HOMEPAGE:
-![image](https://github.com/user-attachments/assets/8c105942-a33f-4b55-83ab-f591eb22e8b0)
+## IMAGES
 
+### HOMEPAGE
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/36a94a99-d4c9-4b74-9add-4fcc51eccd56">
+
+### MARKETPLACE
+![image](https://github.com/user-attachments/assets/3e7aa1c1-056a-4276-af94-55f10ec9cc9b)
+
+---
 
 
 #### © 2024 Cyper Billing. All rights reserved.
